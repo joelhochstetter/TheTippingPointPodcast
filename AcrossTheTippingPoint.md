@@ -1,4 +1,4 @@
-# Vision
+# Vision for the podcast
 
 The world is changing too fast. We can't understand what is going on and if you try too hard you go insane.
 
