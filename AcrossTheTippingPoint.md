@@ -76,6 +76,7 @@ We can play with different titles, to make more lighter and funny, but these top
 - How do we solve grand challenge problems in biology?
 - Should information at the cutting edge be more more open or closed?
 - What can science learn from the open-source movement?
+- How does the principle of thinking fast and slow apply to science and technology development?
 
 ## Ethics, sustainability and interactions with society
 - Should we buy products from institutions we don't believe in?
