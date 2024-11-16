@@ -1,6 +1,6 @@
 # Vision
 
-The world is changing too fast. We can't understand what is going on and if you try to hard you go insane.
+The world is changing too fast. We can't understand what is going on and if you try too hard you go insane.
 
 Rapid technological, economic, political and cultural changes are sweeping society, that will re-define the world as we know it, demanding us to re-define our relationships with the society and each other.
 
@@ -64,8 +64,6 @@ We can play with different titles, to make more lighter and funny, but these top
 - What does education mean?
 - What is the future for energy?
 - Will we have sport in the future?
-
-
 
 
 ## Pushing boundaries in science, technology and arts

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AcrossTheTippingPoint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AcrossTheTippingPoint"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AcrossTheTippingPoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for AcrossTheTippingPoint"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AcrossTheTippingPoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from AcrossTheTippingPoint"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AcrossTheTippingPoint.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of AcrossTheTippingPoint"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "a05989586ae74837",
   "lastOpenFiles": [
+    "README.md",
     "AcrossTheTippingPoint.md"
   ]
 }
